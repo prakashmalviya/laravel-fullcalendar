@@ -26,6 +26,5 @@
                 "Calendar": "PrakashMalviya\\LaravelFullcalendar\\Facades\\Calendar"
             }
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
